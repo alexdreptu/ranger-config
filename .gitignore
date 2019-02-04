@@ -1,3 +1,6 @@
 history
 bookmarks
 tagged
+colorschemes/__pycache__
+colorschemes/.mypy_cache
+colorschemes/*.pyo
